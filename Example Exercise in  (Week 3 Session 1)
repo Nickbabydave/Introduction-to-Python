@@ -1,0 +1,11 @@
+# Example Exercise
+# Ex Favourite Fruit
+
+fruit = the set()
+fruit = input("Enter your favourite fruit:")
+fruit.add(fruit)
+
+print(fruit)
+
+
+
